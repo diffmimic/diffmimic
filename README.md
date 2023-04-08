@@ -1,3 +1,8 @@
-## DiffMimic
+# DiffMimic: Efficient Motion Mimicking with Differentiable Physics
 
-We remove the public repo temporarily due to license policies. We will upload the code to OpenReview as part of the supplementary material if reviewers request.
+We have moved to [github.com/jiawei-ren/diffmimic](https://github.com/jiawei-ren/diffmimic)
+
+<a href="https://github.com/jiawei-ren/diffmimic](https://github.com/jiawei-ren/diffmimic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jiawei-ren&repo=diffmimic" />
+</a>
+
